@@ -1,0 +1,41 @@
+.img {
+ width: 70%;
+ height: 500px;
+ display: block;
+ margin: auto;
+}
+.a {
+	text-decoration: none;
+	font-size: 40px;
+	color: #0040ff;
+	background-color: #bc5ee5;
+	text-align: center;
+}
+
+.p {
+	color: white;
+	text-align: center;
+	background-color: #0d4d23;
+}
+.body {
+ background-image: url(../img/1.PNG);
+
+}
+.pa {
+	font-size: 42px;
+	color: white;
+	text-align: center;
+}
+.h3 {
+  font-size: 70px;
+  text-align: center;
+}
+
+.baby {
+	background-image: url(../img/реклама.jpg);
+	background-repeat: no-repeat;
+}
+.H {
+	text-align: center;
+}
+
